@@ -1,0 +1,17 @@
+{
+  "name": "likec4-example",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Aslak Hellesøy",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@likec4/core": "1.28.1",
+    "@likec4/generators": "1.5.0",
+    "@types/node": "22.14.0",
+    "typescript": "5.8.3",
+    "vitest": "3.1.1"
+  }
+}
